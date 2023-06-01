@@ -21,3 +21,25 @@ Containerization offers several benefits:
 5. Consistency: With containerization, applications and their dependencies are packaged together, ensuring that the software behaves the same way across different environments. This helps in maintaining consistency during development, testing, and deployment.
 
 Overall, containerization simplifies application deployment, improves resource utilization, and enhances the reliability and reproducibility of software across various systems and environments.
+
+
+Devops
+
+Waterfall
+Requirement> Design> Implementation>Testing > Deployemnt
+
+
+
+
+Agile( u can adopt the change in this module)
+Business- Developemnt (together as a one team)
+
+
+Agile Automation
+( Code commit> Unit Tests> code quality> Package> Intergation test)
+
+
+
+COntinues Deployment
+Continues Integration
+Continues Delivery
