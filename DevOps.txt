@@ -1,3 +1,9 @@
+DOCKER IMAGE 
+
+
+In simple terms, a Docker image is like a snapshot or a template of a software application and all its dependencies. It contains everything needed to run the application, such as the code, libraries, and configuration settings, packaged together in a single file. Docker images are portable and can be easily shared and run on any system that has Docker installed. They simplify the deployment and management of software by ensuring consistency and reproducibility across different environments.
+
+Containerization DEFINITION
 Containerization, in simple terms, refers to the process of packaging an application and its dependencies into a self-contained unit called a container. A container provides a consistent and isolated environment for running an application, regardless of the underlying infrastructure.
 
 Think of a container as a lightweight, standalone virtual machine that encapsulates the application and all its necessary components, such as libraries, runtime, and system tools. It runs independently of the host system, making it highly portable and eliminating any compatibility issues.
